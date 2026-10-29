@@ -30,5 +30,8 @@ For the object detection task, the pre-trained **YOLOv5** model was run on your 
 *   **`person`**: Your face and upper body were successfully detected with a confidence score of **`0.69`**
 *   **`cup`**: Detected with a confidence score of **`0.44`**
 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c82bd086-c369-4a87-ad3e-23fc46a1b5bf" />
+
+
 ### Key Findings:
 The pre-trained YOLOv5 model performed excellently on a real-world, personalized image, showing strong generalizability. It accurately separated human features from complex workspace elements (such as screens, dual mice, and customized keyboards) despite varying angles and lighting conditions.
