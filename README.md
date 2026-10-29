@@ -9,7 +9,9 @@
 In this section, three machine learning models were evaluated on the MNIST handwritten digit dataset. The quantitative test accuracies for each model are as follows:
 
 *   **Logistic Regression Accuracy:** **`91.54%`**
+*   <img width="833" height="547" alt="image" src="https://github.com/user-attachments/assets/92239db0-6378-4da0-85c4-891fb9b6105d" />
 *   **Random Forest Accuracy:** **`96.75%`**
+*   <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/d0cb02df-ba07-40ae-9ebd-350172a2a560" />
 *   **Multi-Layer Perceptron (MLP) Accuracy:** **`97.12%`**
 
 ### Key Findings:
